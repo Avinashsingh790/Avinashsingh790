@@ -12,8 +12,8 @@
 
 **Live Projects:**
 
-- [ToDO APP](https://avinashsingh790.github.io/Todo-APP/)
+- [TODO APP](https://avinashsingh790.github.io/Todo-APP/)
 - [E-commerce website](https://avinashsingh790.github.io/E-commerce-website/)
-
+- [AmazonClone website](https://avinashsingh790.github.io/amazonClone/)
 ---
 
