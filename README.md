@@ -21,7 +21,7 @@
 
 **Live Projects:**
 
-- **ToDO APP**
+- **[ToDO APP*](https://avinashsingh790.github.io/Todo-APP/)*
 - **Calculator**
 
 ---
