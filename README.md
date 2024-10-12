@@ -17,5 +17,5 @@
 - **[TODO APP](https://avinashsingh790.github.io/Todo-APP/):** A simple and efficient to-do list application that helps users stay organized.
 - **[E-commerce Website](https://avinashsingh790.github.io/E-commerce-website/):** A feature-rich e-commerce platform showcasing a wide range of products, with a smooth and responsive user interface.
 - **[singhMART E-commerece website](https://singhmart-production.up.railway.app/):** singhMART is a dynamic, user-friendly ecommerce platform where customers can browse through a variety of products, starting with T-shirts, and seamlessly add items to their cart. 
-- **[Protfolio Website](https://avinashsingh790.github.io/Portfolio-Website/):**
+- **[Protfolio Website](https://avinashsingh790.github.io/Portfolio-Website/):** This portfolio is a reflection of my journey in web development, showcasing my skills, projects, and experience in building dynamic, responsive, and modern websites
 ---
